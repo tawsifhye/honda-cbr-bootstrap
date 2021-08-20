@@ -1,0 +1,117 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: #264653;
+}
+
+.self-navbar {
+    background-color: #264653;
+    padding-right: 8rem;
+    color: white;
+    display: flex;
+    justify-content: end;
+}
+
+.banner-bg-color {
+    background-color: #264653;
+}
+
+.header-button {
+    background-color: #E76F51;
+    border: 1px solid #E76F51;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.header-button a {
+    text-decoration: none;
+    color: white;
+}
+
+.custom-p {
+    color: #E76F51;
+    margin-bottom: 0;
+}
+
+
+
+hr {
+    border: 1px solid #E76F51;
+    width: 10%;
+    margin-top: 0;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img-gray {
+    filter: grayscale(100%);
+}
+
+.card-p {
+    color: #6C6C6C;
+}
+
+
+.news-button {}
+
+.news-button a {
+    text-decoration: none;
+    color: #E76F51;
+}
+
+.read-more-button {
+    border: 1px solid #E76F51;
+    border-radius: 5px;
+    color: #E76F51;
+    padding: 15px;
+}
+
+.read-more-button:active {
+    background-color: #E76F51;
+    color: white;
+}
+
+.color-heading,
+.rating {
+    color: #E76F51;
+}
+
+
+
+.accordion-text {
+    color: black;
+}
+
+.accordion-bg {
+    background-color: white;
+}
+
+.social-media {
+    width: 25%;
+}
+
+.social-media {
+    color: #E76F51;
+    width: 20%;
+    height: 20%;
+}
+
+.page-footer {
+    background-color: black;
+}
+
+.footer-ul1 {}
+
+.footer-ul1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-ul2 a {
+    text-decoration: none;
+    color: white;
+}
